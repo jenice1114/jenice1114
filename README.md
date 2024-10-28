@@ -40,12 +40,12 @@ Please join me on this journey as I take my first steps toward a new beginning. 
 
 ## 🧩 Projects
 - Firmware Stability Functionality Tool: 차량 라디오 칩 Protocol 테스트 툴 제작
-- Auto Announcement Tool: 차량 라디오 칩 Live 테스트 툴 제작 및 필드 테스트
+- Auto Announcement Tool: 차량 라디오 칩 Live 테스트 툴 제작
 - Validation Firmware: 차량 오디오 시스템 검증 펌웨어 설계 및 구현
 - Driver Machine Interface: 열차운전자계기판 설계 및 구현
-- Radio Block Center(RBC) and Balise Signal Processing: 철도 시스템 제어 툴 제작
-- Centralized Traffic Control and RBC: 철도 시스템 제어 툴 제작
-- SuperOS Engine: CEF를 적용해 크로스플랫폼 API 구현
+- Radio Block Center(RBC) and Balise Signal Processing: 철도 시스템 제어 통신 인터페이스 툴 제작
+- Centralized Traffic Control and RBC: 철도 시스템 제어 통신 인터페이스 툴 제작
+- SuperOS Engine: CEF를 적용해 크로스플랫폼 API 설계 및 구현
 
 ## 📚 Currently Learning
 - OPIc: 영어 소통 능력 향상을 위한 준비
