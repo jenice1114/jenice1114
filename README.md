@@ -23,7 +23,7 @@ Please join me on this journey as I take my first steps toward a new beginning. 
 
 ## 💻 Skills
 - Languages: 💻 C, 💻 C++, ⚙️ Shell Scripting, ☕ JavaScript, 🐍 Python
-- Frameworks: ⚛️ Electron, ⚛️ React, 🖥️ MFC
+- Frameworks: ⚛️ Electron, ⚛️ React, 🖥️ MFC, 🖥️ Qt
 - Tools: 🛠️ Git, 🌍 Chromium(CEF)
 
 ## 💼 Career
